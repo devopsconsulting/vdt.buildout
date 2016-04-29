@@ -6,3 +6,4 @@ src/
 eggs/
 .vdt.recipe.version.cfg
 packages/
+wheels/
